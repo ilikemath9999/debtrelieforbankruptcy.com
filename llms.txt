@@ -1,0 +1,40 @@
+# debtrelieforbankruptcy.com
+
+> Free comparison of all debt relief options vs bankruptcy.
+
+debtrelieforbankruptcy.com is a free, open-source educational resource comparing all debt relief options: consolidation, settlement, credit counseling, debt management plans, Chapter 7, and Chapter 13. Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://debtrelieforbankruptcy.com/: Debt relief or bankruptcy -- which is right for you? Overview of all options with guidance on when each is appropriate.
+- https://debtrelieforbankruptcy.com/debt-consolidation.html: Debt consolidation explained. How it works, when it helps, and when it makes things worse.
+- https://debtrelieforbankruptcy.com/debt-settlement.html: Debt settlement -- how it works, success rates, and hidden costs.
+- https://debtrelieforbankruptcy.com/credit-counseling.html: Credit counseling and debt management plans (DMPs). How nonprofit agencies work.
+- https://debtrelieforbankruptcy.com/chapter-7.html: Chapter 7 bankruptcy as debt relief. Complete discharge of qualifying debts in 3-4 months.
+- https://debtrelieforbankruptcy.com/chapter-13.html: Chapter 13 as structured debt relief. Court-supervised repayment over 3-5 years.
+- https://debtrelieforbankruptcy.com/comparison-chart.html: Side-by-side comparison of all debt relief options with timelines, costs, and outcomes.
+- https://debtrelieforbankruptcy.com/cost-comparison.html: True cost of each debt relief option including fees, interest, taxes, and credit impact.
+- https://debtrelieforbankruptcy.com/faq.html: Frequently asked questions about debt relief vs bankruptcy.
+
+## Key Facts
+
+- Debt consolidation does not reduce what you owe -- it restructures payments, often at lower interest
+- Debt settlement typically resolves 25-50% of enrolled debt; the rest accrues interest and fees
+- Credit counseling DMPs take 3-5 years and require full repayment at reduced interest
+- Chapter 7 eliminates most unsecured debt in 3-4 months with no repayment
+- Chapter 13 provides a 3-5 year court-supervised repayment plan
+- Settlement companies charge 15-25% of enrolled debt; bankruptcy attorneys charge $1,000-$3,500
+- Only bankruptcy provides the automatic stay, stopping lawsuits and garnishments immediately
+
+## Network
+
+Part of the Open Bankruptcy Project:
+- 1328f.com -- Discharge eligibility screener
+- 1328f.org -- Research platform
+- creditcardforgiveness.org -- Credit card forgiveness options
+- debtsettlementvsbankruptcy.com -- Settlement vs bankruptcy comparison
+- meanstest.org -- Chapter 7 means test
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.

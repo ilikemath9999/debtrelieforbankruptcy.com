@@ -1,0 +1,16 @@
+{
+  "name": "Debt Relief or Bankruptcy Guide",
+  "short_name": "Debt Relief vs BK",
+  "description": "Free comparison of all debt relief options vs bankruptcy. Consolidation, settlement, credit counseling, Chapter 7, Chapter 13 -- side by side.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
