@@ -25,7 +25,7 @@ Compare
 
 Bankruptcy Alternatives: 7 Options Before You File
 
-Not everyone needs bankruptcy. Here are seven alternatives -- and how to tell if they will actually work for your situation.
+Not everyone needs bankruptcy. Here are seven alternatives - and how to tell if they will actually work for your situation.
 
 The right answer depends on how much you owe, your income, and how aggressively creditors are pursuing you. Some alternatives save money. Others waste years and thousands of dollars delaying the inevitable.
 
@@ -33,7 +33,7 @@ Network › Debt Relief or Bankruptcy › Alternatives to Bankruptcy
 
 The Master Comparison: Bankruptcy vs. Every Alternative
 
-Before diving into each option, here is the full comparison in one table. Bookmark this -- it is the most honest side-by-side you will find online.
+Before diving into each option, here is the full comparison in one table. Bookmark this - it is the most honest side-by-side you will find online.
 
 Option
 Timeline
@@ -100,7 +100,7 @@ No
 
 1. Debt Consolidation Loans
 
-Debt consolidation combines multiple debts into a single loan, ideally at a lower interest rate. You are not reducing the amount you owe -- you are reorganizing it into one monthly payment. This works best when you have good enough credit to qualify for a lower rate and enough income to make the payments.
+Debt consolidation combines multiple debts into a single loan, ideally at a lower interest rate. You are not reducing the amount you owe - you are reorganizing it into one monthly payment. This works best when you have good enough credit to qualify for a lower rate and enough income to make the payments.
 
 How It Works
 
@@ -126,7 +126,7 @@ You would need more than 5 years to pay off the consolidated loan
 
 The root cause of your debt (income shortfall, medical crisis) has not been resolved
 
-The consolidation trap: Studies show that a significant percentage of people who consolidate debt end up in more debt within a few years. They pay off credit cards with a consolidation loan, then charge the cards back up -- now owing both the loan and new card balances. Consolidation only works if you close the accounts or have the discipline not to use them.
+The consolidation trap: Studies show that a significant percentage of people who consolidate debt end up in more debt within a few years. They pay off credit cards with a consolidation loan, then charge the cards back up - now owing both the loan and new card balances. Consolidation only works if you close the accounts or have the discipline not to use them.
 
 For a detailed comparison, see debtconsolidationvsbankruptcy.com.
 
@@ -140,9 +140,9 @@ The debt settlement industry is one of the most problematic areas of consumer fi
 
 Low success rates: Only about 55% of enrolled debts are ever settled, and many people drop out before completing the program
 
-Tax consequences: Forgiven debt over $600 is reported as income on IRS Form 1099-C -- you may owe income tax on the "savings"
+Tax consequences: Forgiven debt over $600 is reported as income on IRS Form 1099-C - you may owe income tax on the "savings"
 
-Lawsuits during the process: While you stop paying creditors, they can sue you, garnish wages, or levy bank accounts -- settlement companies cannot stop this
+Lawsuits during the process: While you stop paying creditors, they can sue you, garnish wages, or levy bank accounts - settlement companies cannot stop this
 
 Credit damage: Your credit score drops severely because you must stop paying creditors for the strategy to work
 
@@ -162,7 +162,7 @@ Reviews your complete financial picture (income, debts, expenses, assets)
 
 Helps you create a realistic budget
 
-Recommends the best option for your situation -- including bankruptcy if that is the answer
+Recommends the best option for your situation - including bankruptcy if that is the answer
 
 Provides the pre-filing credit counseling certificate required before filing bankruptcy
 
@@ -178,7 +178,7 @@ Interest rates reduced significantly (average 8-9% reduction)
 
 Single monthly payment simplifies your finances
 
-No new loan required -- you are repaying existing debts
+No new loan required - you are repaying existing debts
 
 Less credit damage than bankruptcy or settlement
 
@@ -186,7 +186,7 @@ Monthly fees are modest ($25-$75)
 
 DMP Cons
 
-You repay 100% of principal -- no debt reduction
+You repay 100% of principal - no debt reduction
 
 Takes 3-5 years to complete
 
@@ -222,7 +222,7 @@ If your only income comes from these sources and you have no nonexempt property 
 
 Risks of Doing Nothing
 
-Creditors can still call, send letters, and sue you -- the harassment continues
+Creditors can still call, send letters, and sue you - the harassment continues
 
 Judgments last 10-20 years in most states and can be renewed
 
@@ -236,7 +236,7 @@ Note: Being judgment-proof is a factual status, not a legal filing. You do not n
 
 6. Creditor Hardship Programs
 
-Many major creditors -- especially credit card companies and mortgage servicers -- offer hardship programs for customers experiencing financial difficulty. These are internal programs, not government benefits, and they vary widely between companies.
+Many major creditors - especially credit card companies and mortgage servicers - offer hardship programs for customers experiencing financial difficulty. These are internal programs, not government benefits, and they vary widely between companies.
 
 Common Hardship Program Features
 
@@ -274,7 +274,7 @@ Start low: offer 25-30% as a lump sum. The creditor will counter.
 
 Get everything in writing before you pay. A verbal agreement means nothing.
 
-Pay by check or money order -- never give collectors your bank account or debit card number
+Pay by check or money order - never give collectors your bank account or debit card number
 
 The settlement letter should state the debt is "paid in full" or "settled in full" and that the creditor will report the account as settled to credit bureaus
 
@@ -284,15 +284,15 @@ When Bankruptcy Is Still the Best Option
 
 After reviewing all seven alternatives, many people discover that bankruptcy is actually the fastest, cheapest, and most effective solution. This is especially true when:
 
-Debt exceeds 40% of annual income -- at this level, consolidation and DMPs take too long and cost too much
+Debt exceeds 40% of annual income - at this level, consolidation and DMPs take too long and cost too much
 
-You are being sued or garnished -- only the automatic stay in bankruptcy stops lawsuits, garnishments, and foreclosure immediately
+You are being sued or garnished - only the automatic stay in bankruptcy stops lawsuits, garnishments, and foreclosure immediately
 
-You qualify for Chapter 7 -- eliminating debt in 3-4 months for $1,500-$2,500 is cheaper and faster than any alternative
+You qualify for Chapter 7 - eliminating debt in 3-4 months for $1,500-$2,500 is cheaper and faster than any alternative
 
-Alternatives have already failed -- if you tried consolidation or settlement and it did not work, bankruptcy is the reset
+Alternatives have already failed - if you tried consolidation or settlement and it did not work, bankruptcy is the reset
 
-You need to stop foreclosure -- Chapter 13 lets you cure mortgage arrears over 3-5 years while keeping your home
+You need to stop foreclosure - Chapter 13 lets you cure mortgage arrears over 3-5 years while keeping your home
 
 The stigma myth: Studies show that most people who file bankruptcy report improvement in their financial stress and quality of life within 12 months. The credit impact, while real, begins recovering immediately. Many bankruptcy filers qualify for new credit cards within 1-2 years and a mortgage within 2-3 years of discharge. The 7-10 year mark on your credit report has diminishing impact after the first 2-3 years.
 
@@ -327,25 +327,29 @@ Ch. 13 Calculator
 
 Related Resources
 
-Debt Consolidation vs. Bankruptcy -- In-depth comparison with real numbers
+Debt Consolidation vs. Bankruptcy - In-depth comparison with real numbers
 
-Debt Settlement vs. Bankruptcy -- Tax, credit, and fee analysis
+Debt Settlement vs. Bankruptcy - Tax, credit, and fee analysis
 
-Credit Counseling Requirements -- What you need before filing
+Credit Counseling Requirements - What you need before filing
 
-Means Test Guide -- Find out if you qualify for Chapter 7
+Means Test Guide - Find out if you qualify for Chapter 7
 
-Chapter 13 Payment Calculator -- Estimate your monthly plan payment
+Chapter 13 Payment Calculator - Estimate your monthly plan payment
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
 Section 109(g) Filing Bar
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 This site is free and open-source. Support the Open Bankruptcy Project.
 
@@ -491,7 +495,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -614,7 +618,7 @@ About 70% of people who want to file Chapter 7 qualify. The means test sounds in
 
 What You Keep
 
-Chapter 7 is called "liquidation," but about 95% of cases are no-asset -- meaning the trustee finds nothing to liquidate. State and federal exemptions protect:
+Chapter 7 is called "liquidation," but about 95% of cases are no-asset - meaning the trustee finds nothing to liquidate. State and federal exemptions protect:
 
 Your home (homestead exemption, varies by state)
 
@@ -632,13 +636,13 @@ The moment you file, the automatic stay under Section 362 stops all collection a
 
 Compared to Other Options
 
-See the side-by-side comparison and cost comparison for how Chapter 7 stacks up against consolidation, settlement, and DMPs. The summary: Chapter 7 is faster, cheaper (in total cost), and more effective than every other option -- if you qualify.
+See the side-by-side comparison and cost comparison for how Chapter 7 stacks up against consolidation, settlement, and DMPs. The summary: Chapter 7 is faster, cheaper (in total cost), and more effective than every other option - if you qualify.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -733,6 +737,227 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
+## Bankruptcy vs Debt Relief - Compare All Options Side by Side [2026]
+Source: https://debtrelieforbankruptcy.com/compare-options.html
+
+Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+debtrelieforbankruptcy.com
+☰
+
+Home
+Consolidation
+Settlement
+Counseling
+Chapter 7
+Chapter 13
+Compare
+All Options
+FAQ
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Compare All Debt Relief Options
+
+Bankruptcy vs debt consolidation vs debt settlement vs credit counseling vs doing nothing. Four side-by-side comparison tables with honest numbers.
+
+Network › Debt Relief or Bankruptcy › Compare Options
+
+Master Comparison: All Five Options
+
+This table puts every major debt relief option side by side. The numbers do not lie - but the right choice depends on your specific debt load, income, and goals.
+
+Factor
+Ch. 7 Bankruptcy
+Ch. 13 Bankruptcy
+Debt Consolidation
+Debt Settlement
+Credit Counseling
+
+Timeline
+3-4 months
+3-5 years
+3-5 years
+2-4 years
+3-5 years
+
+Cost
+$1,400-$2,900
+$3,300-$5,300+
+Loan interest (varies)
+15-25% of enrolled debt
+$25-$75/month
+
+Debt Eliminated
+100% of eligible debt
+Remaining balance after plan
+0% - you repay everything
+35-60% reduction typical
+0% - you repay everything
+
+Legal Protection
+Automatic stay stops all collection
+Automatic stay stops all collection
+None
+None
+None
+
+Stops Lawsuits
+Yes, immediately
+Yes, immediately
+No
+No
+No
+
+Stops Garnishment
+Yes, immediately
+Yes, immediately
+No
+No
+No
+
+Credit Impact
+On report 10 years; rebuilding starts in months
+On report 7 years; rebuilding starts after plan
+Minor if payments made on time
+Severe - missed payments + settled accounts
+Minor - may note "in DMP"
+
+Tax Consequences
+None - discharged debt is not taxable
+None
+None
+Forgiven debt over $600 is taxable income (1099-C)
+None
+
+Success Rate
+93%+ discharge rate
+40-50% discharge rate
+Depends on ability to make payments
+50-60% of accounts settled
+Depends on ability to make payments
+
+Eligibility
+Must pass means test
+Regular income required
+Credit score 580+ typically needed
+Anyone with unsecured debt
+Anyone with unsecured debt
+
+Bankruptcy vs Debt Consolidation
+
+Debt consolidation combines multiple debts into a single loan, ideally at a lower interest rate. You repay 100% of the principal. Bankruptcy eliminates the debt entirely.
+
+FactorBankruptcy (Ch. 7)Debt Consolidation
+
+You Repay$0 of unsecured debt100% of principal + interest
+
+Timeline3-4 months3-5 years
+
+QualificationMeans test (income-based)Credit score 580+ and income
+
+Stops CollectionYes (automatic stay)No
+
+RiskCredit report for 10 yearsIf you miss payments, you are back where you started - with a new loan
+
+Bottom line: Consolidation works for manageable debt with high interest rates. If your debt is overwhelming or you cannot qualify for a low-rate loan, Chapter 7 is faster and eliminates the debt entirely. Full consolidation vs bankruptcy guide.
+
+Bankruptcy vs Debt Settlement
+
+Debt settlement companies negotiate with creditors to accept less than you owe. You stop paying creditors and save into a dedicated account. The company negotiates once enough accumulates.
+
+FactorBankruptcy (Ch. 7)Debt Settlement
+
+Debt Reduction100% of eligible debt discharged35-60% reduction typical
+
+Cost$1,400-$2,90015-25% of enrolled debt (on $50K debt = $7,500-$12,500)
+
+Timeline3-4 months2-4 years
+
+Lawsuits During ProcessStopped by automatic stayCreditors can sue at any time
+
+Tax ConsequencesNoneForgiven debt over $600 is taxable (1099-C)
+
+Guarantee of Result93%+ success rateNo guarantee; creditors not required to settle
+
+Warning: The debt settlement industry is rife with scams. The FTC banned upfront fees in 2010, but many companies skirt the rule. If a company guarantees results or charges before settling, walk away. Full settlement vs bankruptcy guide.
+
+Bankruptcy vs Credit Counseling
+
+Nonprofit credit counseling agencies can create a debt management plan (DMP) that reduces your interest rates and consolidates payments into one monthly amount. You repay 100% of the principal.
+
+FactorBankruptcy (Ch. 7)Credit Counseling / DMP
+
+You Repay$0 of unsecured debt100% of principal at reduced interest
+
+Monthly CostOne-time $1,400-$2,900$25-$75/month fee + your payment
+
+Duration3-4 months3-5 years
+
+Interest SavedN/A - debt eliminatedReduced from 20-25% to 6-9% typically
+
+Creditor ParticipationMandatory (court order)Voluntary - creditors can refuse
+
+Bottom line: A DMP works best when your debt is manageable, your primary problem is high interest rates, and you have steady income to make consistent payments for 3-5 years. If your total debt exceeds your annual income, Chapter 7 is almost always the better path. Full credit counseling guide.
+
+Bankruptcy vs Doing Nothing
+
+Some people assume ignoring debt is a strategy. Here is what actually happens when you do nothing.
+
+FactorBankruptcy (Ch. 7)Doing Nothing
+
+Debt OutcomeEliminated in 3-4 monthsGrows with interest and fees; never goes away until statute of limitations expires
+
+Collection CallsStop immediately (automatic stay)Continue and intensify; may be sold to aggressive collectors
+
+LawsuitsCannot be filed post-dischargeCreditors can sue, obtain judgments, and garnish wages
+
+Wage GarnishmentStopped and preventedUp to 25% of disposable income
+
+Credit ImpactNegative mark for 10 years, then cleanNegative marks for 7 years per account; new suits restart damage
+
+Statute of LimitationsN/A - debt eliminated3-10 years depending on state; ANY payment or acknowledgment restarts the clock
+
+Doing nothing is only viable if you are judgment-proof (no wages to garnish, no assets to seize, and no bank accounts to levy). Even then, the debt does not disappear - creditors can renew judgments indefinitely in many states.
+
+Find the Right Path for You
+
+Check your bankruptcy eligibility in 30 seconds, or compare Chapter 7 vs Chapter 13 in detail.
+
+Free Eligibility Screener
+Ch. 7 vs 13 Table
+
+Related Guides
+
+Debt Relief Comparison Chart - quick overview
+
+Cost Comparison - what each option really costs
+
+Chapter 7 vs 13 Master Table
+
+How Much Does Bankruptcy Cost?
+
+Debt Settlement vs Bankruptcy - detailed guide
+
+Debt Consolidation vs Bankruptcy - detailed guide
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.orgdebtsettlementvsbankruptcy.comchapter7vs13.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
 ## Side-by-Side Comparison: All Debt Relief Options
 Source: https://debtrelieforbankruptcy.com/comparison-chart.html
 
@@ -753,7 +978,7 @@ FactorConsolidationSettlementDMPChapter 7Chapter 13
 
 Timeline3-5 years2-4 years3-5 years3-4 months3-5 years
 
-Debt reduced?NoPartiallyNoYes -- dischargedYes -- remainder discharged
+Debt reduced?NoPartiallyNoYes - dischargedYes - remainder discharged
 
 Stops lawsuits?NoNoNoYes (automatic stay)Yes (automatic stay)
 
@@ -783,7 +1008,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -946,7 +1171,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1087,7 +1312,7 @@ Best for: People with steady income who can afford to repay their debts but need
 
 Limitations
 
-You repay 100% of the principal -- no debt reduction
+You repay 100% of the principal - no debt reduction
 
 3-5 year commitment with strict payment schedule
 
@@ -1097,11 +1322,11 @@ Not all creditors participate in DMP programs
 
 If you miss payments, creditors can withdraw from the plan
 
-DMP vs bankruptcy: A DMP requires full repayment over 3-5 years. Chapter 7 eliminates the debt entirely in 3-4 months. If your debt is large relative to your income, a DMP may not be viable -- you would be paying for years what bankruptcy could eliminate in months.
+DMP vs bankruptcy: A DMP requires full repayment over 3-5 years. Chapter 7 eliminates the debt entirely in 3-4 months. If your debt is large relative to your income, a DMP may not be viable - you would be paying for years what bankruptcy could eliminate in months.
 
 Required Pre-Bankruptcy Counseling
 
-Confusingly, the Bankruptcy Code requires a credit counseling session before filing. This is different from a DMP. The required session is a one-time, 60-90 minute counseling session from an approved agency. It does not commit you to a DMP -- it simply fulfills the legal requirement.
+Confusingly, the Bankruptcy Code requires a credit counseling session before filing. This is different from a DMP. The required session is a one-time, 60-90 minute counseling session from an approved agency. It does not commit you to a DMP - it simply fulfills the legal requirement.
 
 List of approved agencies: DOJ Approved Credit Counseling Agencies
 
@@ -1109,7 +1334,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1230,7 +1455,7 @@ Balance transfer credit cards with 0% promotional rates (12-21 months)
 
 Home equity loans or HELOCs (low rates, but your home is collateral)
 
-401(k) loans (borrowing from retirement -- generally a bad idea)
+401(k) loans (borrowing from retirement - generally a bad idea)
 
 When Consolidation Works
 
@@ -1254,7 +1479,7 @@ You extend the term. Lower monthly payments over a longer term can mean more tot
 
 You use home equity. Converting unsecured debt to secured debt puts your home at risk.
 
-The danger: Consolidation does not reduce your debt by a single dollar. It reorganizes it. If spending habits do not change, you end up worse -- now with more total debt and potentially secured debt where there was none.
+The danger: Consolidation does not reduce your debt by a single dollar. It reorganizes it. If spending habits do not change, you end up worse - now with more total debt and potentially secured debt where there was none.
 
 Consolidation vs Bankruptcy
 
@@ -1266,7 +1491,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1361,7 +1586,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How to Get Debt Free Without Bankruptcy -- All Options
+## How to Get Debt Free Without Bankruptcy - All Options
 Source: https://debtrelieforbankruptcy.com/debt-free-without-bankruptcy.html
 
 debtrelieforbankruptcy.com
@@ -1372,11 +1597,11 @@ Debt Relief Options
 Debt Consolidation
 FAQ
 
-How to Get Debt Free Without Bankruptcy -- All Options Explained
+How to Get Debt Free Without Bankruptcy - All Options Explained
 
 Alternatives to bankruptcy for getting debt free. Negotiation, consolidation, debt management plans, settlement, and when bankruptcy is actually the better choice.
 
-Home › How to Get Debt Free Without Bankruptcy -- All Options Explained
+Home › How to Get Debt Free Without Bankruptcy - All Options Explained
 
 Alternatives to Bankruptcy
 
@@ -1406,7 +1631,7 @@ You need the automatic stay to stop collection immediately
 
 Debt settlement would create a large tax bill (forgiven debt is taxable income, but debt discharged in bankruptcy is not)
 
-You want certainty -- bankruptcy provides a legal discharge, while alternatives depend on creditor cooperation
+You want certainty - bankruptcy provides a legal discharge, while alternatives depend on creditor cooperation
 
 Bankruptcy Tools Network:
 
@@ -1457,7 +1682,7 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
 ---
 
-## Debt Settlement Pros and Cons -- Compared to Bankruptcy
+## Debt Settlement Pros and Cons - Compared to Bankruptcy
 Source: https://debtrelieforbankruptcy.com/debt-settlement-pros-cons.html
 
 debtrelieforbankruptcy.com
@@ -1468,11 +1693,11 @@ Debt Relief Options
 Debt Consolidation
 FAQ
 
-Debt Settlement Pros and Cons -- Compared to Bankruptcy
+Debt Settlement Pros and Cons - Compared to Bankruptcy
 
 Honest comparison of debt settlement vs. bankruptcy. Success rates, credit impact, tax consequences, legal risks, and which option is right for your situation.
 
-Home › Debt Settlement Pros and Cons -- Compared to Bankruptcy
+Home › Debt Settlement Pros and Cons - Compared to Bankruptcy
 
 Debt Settlement vs. Bankruptcy
 
@@ -1488,7 +1713,7 @@ Credit impactSeverely negative during processNegative but defined recovery timel
 
 Tax consequencesForgiven debt is taxable incomeDischarged debt is NOT taxable
 
-Legal protectionNone -- creditors can still sueAutomatic stay stops all collection
+Legal protectionNone - creditors can still sueAutomatic stay stops all collection
 
 Success rate30-50% complete the program95%+ receive discharge
 
@@ -1559,7 +1784,7 @@ Home › Debt Settlement
 
 The Process
 
-You enroll your debts with a settlement company. They instruct you to stop paying your creditors and instead deposit money into a dedicated savings account each month. After enough money accumulates (typically 12-36 months per account), the company negotiates a lump-sum payoff with each creditor -- usually 40-60 cents on the dollar.
+You enroll your debts with a settlement company. They instruct you to stop paying your creditors and instead deposit money into a dedicated savings account each month. After enough money accumulates (typically 12-36 months per account), the company negotiates a lump-sum payoff with each creditor - usually 40-60 cents on the dollar.
 
 Enroll debts (typically $10,000+ minimum)
 
@@ -1591,7 +1816,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1686,7 +1911,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Debt Snowball vs Avalanche Method -- Which Payoff Strategy Works
+## Debt Snowball vs Avalanche Method - Which Payoff Strategy Works
 Source: https://debtrelieforbankruptcy.com/debt-snowball-vs-avalanche.html
 
 debtrelieforbankruptcy.com
@@ -1697,11 +1922,11 @@ Debt Relief Options
 Debt Consolidation
 FAQ
 
-Debt Snowball vs Avalanche Method -- Which Payoff Strategy Works
+Debt Snowball vs Avalanche Method - Which Payoff Strategy Works
 
 Compare the debt snowball and debt avalanche payoff methods. Math, psychology, pros and cons, and when bankruptcy makes more sense than either strategy.
 
-Home › Debt Snowball vs Avalanche Method -- Which Payoff Strategy Works
+Home › Debt Snowball vs Avalanche Method - Which Payoff Strategy Works
 
 Debt Snowball vs Avalanche
 
@@ -1766,7 +1991,7 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
 ---
 
-## FAQ -- Debt Relief vs Bankruptcy
+## FAQ - Debt Relief vs Bankruptcy
 Source: https://debtrelieforbankruptcy.com/faq.html
 
 Skip to main content
@@ -1774,7 +1999,7 @@ Skip to main content
 debtrelieforbankruptcy.com☰
 HomeConsolidationSettlementCounselingChapter 7Chapter 13CompareCostsFAQ
 
-FAQ -- Debt Relief vs Bankruptcy
+FAQ - Debt Relief vs Bankruptcy
 
 Answers to the most common questions about choosing between debt relief and bankruptcy.
 
@@ -1800,7 +2025,7 @@ Yes. You can call creditors directly and negotiate reduced payoffs, eliminating 
 
 What debts can bankruptcy eliminate that settlement cannot?
 
-Bankruptcy discharges medical bills, personal loans, payday loans, old utility bills, and most unsecured debts -- not just credit cards. It also provides the automatic stay, stopping lawsuits and garnishments immediately.
+Bankruptcy discharges medical bills, personal loans, payday loans, old utility bills, and most unsecured debts - not just credit cards. It also provides the automatic stay, stopping lawsuits and garnishments immediately.
 
 Do I need a lawyer for bankruptcy?
 
@@ -1808,15 +2033,15 @@ Technically no, but errors can result in property loss, denied discharge, or dis
 
 What is a debt management plan (DMP)?
 
-A DMP is a structured repayment program run by a nonprofit credit counseling agency. You make a single monthly payment to the agency, which distributes it to your creditors at reduced interest rates. The catch: you repay 100% of the principal over 3-5 years. DMPs work best for people who can afford full repayment but need lower interest rates to make it manageable. They do not reduce your total debt -- they just make the payments more affordable. If your debt level is too high for full repayment within 5 years, a DMP probably will not solve the problem. See our credit counseling guide for more.
+A DMP is a structured repayment program run by a nonprofit credit counseling agency. You make a single monthly payment to the agency, which distributes it to your creditors at reduced interest rates. The catch: you repay 100% of the principal over 3-5 years. DMPs work best for people who can afford full repayment but need lower interest rates to make it manageable. They do not reduce your total debt - they just make the payments more affordable. If your debt level is too high for full repayment within 5 years, a DMP probably will not solve the problem. See our credit counseling guide for more.
 
 Can debt relief companies stop lawsuits or garnishment?
 
-No. Debt settlement companies, consolidation lenders, and credit counseling agencies have no legal power to stop lawsuits, wage garnishment, or bank levies. Only bankruptcy provides the automatic stay under 11 U.S.C. Section 362, which halts virtually all creditor collection activity the moment the case is filed. If you are being sued or garnished right now, debt relief programs cannot protect you -- bankruptcy can.
+No. Debt settlement companies, consolidation lenders, and credit counseling agencies have no legal power to stop lawsuits, wage garnishment, or bank levies. Only bankruptcy provides the automatic stay under 11 U.S.C. Section 362, which halts virtually all creditor collection activity the moment the case is filed. If you are being sued or garnished right now, debt relief programs cannot protect you - bankruptcy can.
 
 Is debt consolidation a good idea?
 
-It depends on your situation. A consolidation loan replaces multiple debts with a single payment, ideally at a lower interest rate. It works well if you qualify for a favorable rate, can afford the monthly payment, and will not run up new balances on the cleared credit cards. However, many people who consolidate end up with more total debt within 2-3 years because the underlying spending pattern has not changed. Consolidation does not reduce your principal -- it just reorganizes it. See debtconsolidationvsbankruptcy.com for a full comparison.
+It depends on your situation. A consolidation loan replaces multiple debts with a single payment, ideally at a lower interest rate. It works well if you qualify for a favorable rate, can afford the monthly payment, and will not run up new balances on the cleared credit cards. However, many people who consolidate end up with more total debt within 2-3 years because the underlying spending pattern has not changed. Consolidation does not reduce your principal - it just reorganizes it. See debtconsolidationvsbankruptcy.com for a full comparison.
 
 What debts cannot be eliminated by any option?
 
@@ -1824,13 +2049,13 @@ Certain debts survive all forms of debt relief. Child support and alimony cannot
 
 How do I know if I should file bankruptcy or try debt relief first?
 
-Consider bankruptcy if any of the following apply: you are being sued or garnished, your total unsecured debt exceeds what you could repay in 3-5 years, you have no realistic way to make even minimum payments, or debt collectors are contacting you daily. Debt relief programs work best when you can still make meaningful monthly payments and your debts are manageable in size. A free consultation with a bankruptcy attorney -- separate from a debt settlement company -- can help you compare your options with no obligation. Many attorneys will tell you honestly if bankruptcy is not the right path for your situation.
+Consider bankruptcy if any of the following apply: you are being sued or garnished, your total unsecured debt exceeds what you could repay in 3-5 years, you have no realistic way to make even minimum payments, or debt collectors are contacting you daily. Debt relief programs work best when you can still make meaningful monthly payments and your debts are manageable in size. A free consultation with a bankruptcy attorney - separate from a debt settlement company - can help you compare your options with no obligation. Many attorneys will tell you honestly if bankruptcy is not the right path for your situation.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1925,7 +2150,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How to Write a Financial Hardship Letter -- Templates and Guide
+## How to Write a Financial Hardship Letter - Templates and Guide
 Source: https://debtrelieforbankruptcy.com/financial-hardship-letter.html
 
 debtrelieforbankruptcy.com
@@ -1936,15 +2161,15 @@ Debt Relief Options
 Debt Consolidation
 FAQ
 
-How to Write a Financial Hardship Letter -- Templates and Guide
+How to Write a Financial Hardship Letter - Templates and Guide
 
 Guide to writing an effective financial hardship letter for creditors, lenders, and debt collectors. Templates, tips, and what to include for the best results.
 
-Home › How to Write a Financial Hardship Letter -- Templates and Guide
+Home › How to Write a Financial Hardship Letter - Templates and Guide
 
 How to Write a Financial Hardship Letter
 
-A financial hardship letter explains your situation to a creditor and requests accommodation -- reduced payments, lower interest, settlement, or forbearance.
+A financial hardship letter explains your situation to a creditor and requests accommodation - reduced payments, lower interest, settlement, or forbearance.
 
 Template Structure
 
@@ -1954,7 +2179,7 @@ Hardship explanation: Briefly describe what happened (job loss, medical emergenc
 
 Financial snapshot: Income, essential expenses, and what you can afford to pay
 
-Proposed resolution: Be specific -- "I can pay $X per month" or "I request a settlement of $X"
+Proposed resolution: Be specific - "I can pay $X per month" or "I request a settlement of $X"
 
 Closing: Express willingness to work with the creditor and provide your contact information
 
@@ -2009,7 +2234,7 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
 ---
 
-## Debt Relief or Bankruptcy? -- Compare Your Options [2026]
+## Debt Relief or Bankruptcy? - Compare Your Options [2026]
 Source: https://debtrelieforbankruptcy.com/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -2029,7 +2254,7 @@ Compare
 Costs
 FAQ
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Debt Relief or Bankruptcy?
 
@@ -2037,7 +2262,7 @@ Five options. One right answer for your situation. Here is how to tell them apar
 
 It depends on how much you owe, how much you earn, and how fast you need relief.
 
-This guide compares every option honestly -- including the ones the debt relief industry does not want you to know about.
+This guide compares every option honestly - including the ones the debt relief industry does not want you to know about.
 
 Network › Debt Relief or Bankruptcy
 
@@ -2045,15 +2270,15 @@ The Five Options at a Glance
 
 OptionTimelineTypical CostDebt Eliminated?
 
-Debt Consolidation3-5 yearsLoan interestNo -- you repay 100%
+Debt Consolidation3-5 yearsLoan interestNo - you repay 100%
 
 Debt Settlement2-4 years15-25% of enrolled debtPartially (35-60% settled)
 
-Credit Counseling/DMP3-5 years$25-$75/monthNo -- you repay 100% at reduced interest
+Credit Counseling/DMP3-5 years$25-$75/monthNo - you repay 100% at reduced interest
 
-Chapter 7 Bankruptcy3-4 months$1,500-$2,500Yes -- most unsecured debt discharged
+Chapter 7 Bankruptcy3-4 months$1,500-$2,500Yes - most unsecured debt discharged
 
-Chapter 13 Bankruptcy3-5 years$2,500-$4,000Yes -- remaining balance discharged
+Chapter 13 Bankruptcy3-5 years$2,500-$4,000Yes - remaining balance discharged
 
 When Bankruptcy Is the Better Choice
 
@@ -2126,17 +2351,17 @@ Means Test Guide
 
 Related Resources
 
-Debt Settlement vs Bankruptcy -- Deep-dive comparison with tax, credit, and fee analysis
+Debt Settlement vs Bankruptcy - Deep-dive comparison with tax, credit, and fee analysis
 
-Credit Card Forgiveness -- Options for getting credit card debt forgiven
+Credit Card Forgiveness - Options for getting credit card debt forgiven
 
-Credit Card Debt Bankruptcy -- Complete guide to filing bankruptcy on credit card debt
+Credit Card Debt Bankruptcy - Complete guide to filing bankruptcy on credit card debt
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -2211,7 +2436,7 @@ howmuchdoesbankruptcycost.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -2337,7 +2562,7 @@ Part of the Open Bankruptcy Project
 
 Real information, no strings.
 
-1328f.com1328f.orgdebtsettlementvsbankruptcy.comcreditcardforgiveness.orgmeanstest.org♥ SponsorGitHub
+1328f.com1328f.orgdebtsettlementvsbankruptcy.comcreditcardforgiveness.orgmeanstest.org♥ SponsorGitHub Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
@@ -2345,6 +2570,8 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 Privacy | Terms | Open Bankruptcy Project
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2370,13 +2597,15 @@ Payday Loan Bankruptcy: Escape the Cycle
 
 Payday loans are unsecured debt. They are fully dischargeable in bankruptcy. Here is exactly how it works, including the 70-day fraud presumption and what to expect.
 
+Network›Debt Relief or Bankruptcy›Payday Loans
+
 Quick Answer
 
-Yes, you can discharge payday loans in bankruptcy. Payday loans are unsecured consumer debt -- the same category as credit cards and medical bills. They are fully dischargeable in both Chapter 7 and Chapter 13. The only risk is borrowing large amounts within 70 days of filing, which creates a rebuttable presumption of fraud under 11 U.S.C. Section 523(a)(2)(C). Even then, most payday lenders do not object.
+Yes, you can discharge payday loans in bankruptcy. Payday loans are unsecured consumer debt - the same category as credit cards and medical bills. They are fully dischargeable in both Chapter 7 and Chapter 13. The only risk is borrowing large amounts within 70 days of filing, which creates a rebuttable presumption of fraud under 11 U.S.C. Section 523(a)(2)(C). Even then, most payday lenders do not object.
 
 Why Payday Loans Are Dischargeable
 
-Despite the aggressive collection tactics many payday lenders use, there is nothing special about payday loans in the Bankruptcy Code. They are classified as unsecured consumer debt -- the same legal category as credit cards, medical bills, and personal loans.
+Despite the aggressive collection tactics many payday lenders use, there is nothing special about payday loans in the Bankruptcy Code. They are classified as unsecured consumer debt - the same legal category as credit cards, medical bills, and personal loans.
 
 Under 11 U.S.C. Section 727(b) (Chapter 7) and 11 U.S.C. Section 1328(a) (Chapter 13), a discharge releases the debtor from all debts that arose before filing, with specific exceptions listed in Section 523(a). Payday loans do not fall into any of these exceptions unless the lender can prove actual fraud.
 
@@ -2386,11 +2615,11 @@ The 70-Day Fraud Presumption: Section 523(a)(2)(C)
 
 The only meaningful obstacle to discharging payday loans is the fraud presumption in Section 523(a)(2)(C) of the Bankruptcy Code. This provision creates a rebuttable presumption that certain debts incurred shortly before filing were fraudulent.
 
-11 U.S.C. Section 523(a)(2)(C)(i)(II) -- Cash advances aggregating more than $1,100 that are extensions of consumer credit under an open-end credit plan obtained by an individual debtor within 70 days before the order for relief are presumed to be nondischargeable.
+11 U.S.C. Section 523(a)(2)(C)(i)(II) - Cash advances aggregating more than $1,100 that are extensions of consumer credit under an open-end credit plan obtained by an individual debtor within 70 days before the order for relief are presumed to be nondischargeable.
 
 What This Means in Practice
 
-If you took out more than $1,100 in payday loans within the 70 days before filing bankruptcy, the lender has a legal argument that you committed fraud -- that is, you borrowed money knowing you planned to file bankruptcy and never repay.
+If you took out more than $1,100 in payday loans within the 70 days before filing bankruptcy, the lender has a legal argument that you committed fraud - that is, you borrowed money knowing you planned to file bankruptcy and never repay.
 
 However, this is a presumption, not an automatic bar. The lender must actually file an adversary proceeding and prove fraud. You can overcome the presumption by showing:
 
@@ -2406,7 +2635,7 @@ Strategic tip: If possible, wait at least 70 days after your last payday loan be
 
 The Payday Loan Cycle: Why Bankruptcy Is Often the Best Exit
 
-Payday loans are designed to trap borrowers in a cycle of renewals. A typical payday loan charges fees equivalent to 300-500% APR. When borrowers cannot repay the full amount on the due date, they "roll over" the loan -- paying only the fee and extending the principal to the next pay period.
+Payday loans are designed to trap borrowers in a cycle of renewals. A typical payday loan charges fees equivalent to 300-500% APR. When borrowers cannot repay the full amount on the due date, they "roll over" the loan - paying only the fee and extending the principal to the next pay period.
 
 The result is predictable: borrowers pay the same fee repeatedly without reducing the principal. According to the Consumer Financial Protection Bureau (CFPB), the majority of payday loan fees are paid by borrowers who take out 10 or more loans per year.
 
@@ -2416,7 +2645,7 @@ Initial loan: Borrow $500 with a $75 fee (2-week term)
 
 Rollover: Cannot afford to repay $575 on payday, so you pay the $75 fee to extend
 
-Repeat: Every two weeks, another $75 fee -- $150/month just to keep the $500 loan alive
+Repeat: Every two weeks, another $75 fee - $150/month just to keep the $500 loan alive
 
 Six months later: You have paid $900 in fees on a $500 loan and still owe the original $500
 
@@ -2430,7 +2659,7 @@ Both chapters will eliminate payday loan debt, but they work differently.
 
 Chapter 7
 
-Fastest path -- discharge in approximately 4 months
+Fastest path - discharge in approximately 4 months
 
 Payday loans are wiped out completely with no repayment
 
@@ -2442,9 +2671,9 @@ Chapter 13
 
 3-to-5-year repayment plan
 
-Payday loans are treated as general unsecured debt -- paid a fraction (often pennies on the dollar) from disposable income
+Payday loans are treated as general unsecured debt - paid a fraction (often pennies on the dollar) from disposable income
 
-No means test income cap -- available even if you earn too much for Chapter 7
+No means test income cap - available even if you earn too much for Chapter 7
 
 Better if you also need to catch up on secured debts (mortgage, car) or protect non-exempt assets
 
@@ -2452,7 +2681,7 @@ For most people trapped in payday loan cycles, Chapter 7 is the better option be
 
 Common Payday Lender Tactics (and Why They Do Not Work)
 
-"You wrote a bad check -- that is a crime"
+"You wrote a bad check - that is a crime"
 
 This is false. Writing a post-dated check as part of a payday loan agreement is not a criminal act. Bad check statutes require intent to defraud at the time the check was written. A payday loan check is given as security for a legitimate loan, not as payment for goods or services. Courts have consistently rejected this argument.
 
@@ -2466,7 +2695,7 @@ Absolutely false. Payday loans are included in every bankruptcy filing as unsecu
 
 "We will contact your employer"
 
-The Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. Section 1692c(b), prohibits debt collectors from contacting third parties, including employers, about a debt except in very limited circumstances. After you file bankruptcy, the automatic stay provides additional protection -- any contact with your employer about the debt violates Section 362.
+The Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. Section 1692c(b), prohibits debt collectors from contacting third parties, including employers, about a debt except in very limited circumstances. After you file bankruptcy, the automatic stay provides additional protection - any contact with your employer about the debt violates Section 362.
 
 Steps to Discharge Payday Loans in Bankruptcy
 
@@ -2476,7 +2705,7 @@ Open a new bank account at a bank where you have no payday loan ACH authorizatio
 
 Complete credit counseling from a UST-approved provider (required before filing).
 
-List every payday lender on your schedules -- include the lender name, address, account number, and amount owed.
+List every payday lender on your schedules - include the lender name, address, account number, and amount owed.
 
 Attend the 341 meeting of creditors. Payday lenders rarely appear.
 
@@ -2500,7 +2729,7 @@ Frequently Asked Questions
 
 Can you file bankruptcy on payday loans?
 
-Yes. Payday loans are unsecured consumer debt, fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. The lender can only challenge discharge if they prove actual fraud -- which is rare and expensive to litigate.
+Yes. Payday loans are unsecured consumer debt, fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. The lender can only challenge discharge if they prove actual fraud - which is rare and expensive to litigate.
 
 What is the 70-day rule for payday loans in bankruptcy?
 
@@ -2516,23 +2745,23 @@ No. The automatic stay under Section 362 prohibits all collection activity, incl
 
 Related Resources
 
-automaticstay.org -- How the automatic stay stops collections
+automaticstay.org - How the automatic stay stops collections
 
-523a.org -- Exceptions to discharge under Section 523(a)
+523a.org - Exceptions to discharge under Section 523(a)
 
-chapter7vs13.org -- Chapter 7 vs. Chapter 13 comparison
+chapter7vs13.org - Chapter 7 vs. Chapter 13 comparison
 
-howtofilebankruptcy.org -- Step-by-step filing guide
+howtofilebankruptcy.org - Step-by-step filing guide
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Further Reading & Resources
 
@@ -2632,221 +2861,72 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy vs Debt Relief -- Compare All Options Side by Side [2026]
-Source: https://debtrelieforbankruptcy.com/compare-options.html
-
-Esta pagina esta disponible en Espanol
-
-Skip to main content
+## Privacy Policy - debtrelieforbankruptcy.com
+Source: https://debtrelieforbankruptcy.com/privacy.html
 
 debtrelieforbankruptcy.com
-☰
 
 Home
-Consolidation
-Settlement
-Counseling
-Chapter 7
-Chapter 13
-Compare
-All Options
-FAQ
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Compare All Debt Relief Options
-
-Bankruptcy vs debt consolidation vs debt settlement vs credit counseling vs doing nothing. Four side-by-side comparison tables with honest numbers.
-
-Network › Debt Relief or Bankruptcy › Compare Options
-
-Master Comparison: All Five Options
-
-This table puts every major debt relief option side by side. The numbers do not lie -- but the right choice depends on your specific debt load, income, and goals.
-
-Factor
-Ch. 7 Bankruptcy
-Ch. 13 Bankruptcy
-Debt Consolidation
-Debt Settlement
-Credit Counseling
+Privacy
 
-Timeline
-3-4 months
-3-5 years
-3-5 years
-2-4 years
-3-5 years
+Privacy Policy
 
-Cost
-$1,400-$2,900
-$3,300-$5,300+
-Loan interest (varies)
-15-25% of enrolled debt
-$25-$75/month
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Debt Eliminated
-100% of eligible debt
-Remaining balance after plan
-0% -- you repay everything
-35-60% reduction typical
-0% -- you repay everything
+Data We Collect
 
-Legal Protection
-Automatic stay stops all collection
-Automatic stay stops all collection
-None
-None
-None
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-Stops Lawsuits
-Yes, immediately
-Yes, immediately
-No
-No
-No
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Stops Garnishment
-Yes, immediately
-Yes, immediately
-No
-No
-No
+What We Don't Do
 
-Credit Impact
-On report 10 years; rebuilding starts in months
-On report 7 years; rebuilding starts after plan
-Minor if payments made on time
-Severe -- missed payments + settled accounts
-Minor -- may note "in DMP"
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-Tax Consequences
-None -- discharged debt is not taxable
-None
-None
-Forgiven debt over $600 is taxable income (1099-C)
-None
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Success Rate
-93%+ discharge rate
-40-50% discharge rate
-Depends on ability to make payments
-50-60% of accounts settled
-Depends on ability to make payments
+Cookies
 
-Eligibility
-Must pass means test
-Regular income required
-Credit score 580+ typically needed
-Anyone with unsecured debt
-Anyone with unsecured debt
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Bankruptcy vs Debt Consolidation
+Third-Party Services
 
-Debt consolidation combines multiple debts into a single loan, ideally at a lower interest rate. You repay 100% of the principal. Bankruptcy eliminates the debt entirely.
+Google Analytics (GA4) - aggregate traffic measurement
 
-FactorBankruptcy (Ch. 7)Debt Consolidation
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-You Repay$0 of unsecured debt100% of principal + interest
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Timeline3-4 months3-5 years
+GitHub Pages - hosting
 
-QualificationMeans test (income-based)Credit score 580+ and income
+Contact Forms & Email
 
-Stops CollectionYes (automatic stay)No
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-RiskCredit report for 10 yearsIf you miss payments, you are back where you started -- with a new loan
+Children's Privacy
 
-Bottom line: Consolidation works for manageable debt with high interest rates. If your debt is overwhelming or you cannot qualify for a low-rate loan, Chapter 7 is faster and eliminates the debt entirely. Full consolidation vs bankruptcy guide.
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-Bankruptcy vs Debt Settlement
+Data Retention
 
-Debt settlement companies negotiate with creditors to accept less than you owe. You stop paying creditors and save into a dedicated account. The company negotiates once enough accumulates.
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-FactorBankruptcy (Ch. 7)Debt Settlement
+Your Rights
 
-Debt Reduction100% of eligible debt discharged35-60% reduction typical
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Cost$1,400-$2,90015-25% of enrolled debt (on $50K debt = $7,500-$12,500)
+Network Policy
 
-Timeline3-4 months2-4 years
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-Lawsuits During ProcessStopped by automatic stayCreditors can sue at any time
+Changes
 
-Tax ConsequencesNoneForgiven debt over $600 is taxable (1099-C)
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-Guarantee of Result93%+ success rateNo guarantee; creditors not required to settle
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Warning: The debt settlement industry is rife with scams. The FTC banned upfront fees in 2010, but many companies skirt the rule. If a company guarantees results or charges before settling, walk away. Full settlement vs bankruptcy guide.
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Bankruptcy vs Credit Counseling
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Nonprofit credit counseling agencies can create a debt management plan (DMP) that reduces your interest rates and consolidates payments into one monthly amount. You repay 100% of the principal.
-
-FactorBankruptcy (Ch. 7)Credit Counseling / DMP
-
-You Repay$0 of unsecured debt100% of principal at reduced interest
-
-Monthly CostOne-time $1,400-$2,900$25-$75/month fee + your payment
-
-Duration3-4 months3-5 years
-
-Interest SavedN/A -- debt eliminatedReduced from 20-25% to 6-9% typically
-
-Creditor ParticipationMandatory (court order)Voluntary -- creditors can refuse
-
-Bottom line: A DMP works best when your debt is manageable, your primary problem is high interest rates, and you have steady income to make consistent payments for 3-5 years. If your total debt exceeds your annual income, Chapter 7 is almost always the better path. Full credit counseling guide.
-
-Bankruptcy vs Doing Nothing
-
-Some people assume ignoring debt is a strategy. Here is what actually happens when you do nothing.
-
-FactorBankruptcy (Ch. 7)Doing Nothing
-
-Debt OutcomeEliminated in 3-4 monthsGrows with interest and fees; never goes away until statute of limitations expires
-
-Collection CallsStop immediately (automatic stay)Continue and intensify; may be sold to aggressive collectors
-
-LawsuitsCannot be filed post-dischargeCreditors can sue, obtain judgments, and garnish wages
-
-Wage GarnishmentStopped and preventedUp to 25% of disposable income
-
-Credit ImpactNegative mark for 10 years, then cleanNegative marks for 7 years per account; new suits restart damage
-
-Statute of LimitationsN/A -- debt eliminated3-10 years depending on state; ANY payment or acknowledgment restarts the clock
-
-Doing nothing is only viable if you are judgment-proof (no wages to garnish, no assets to seize, and no bank accounts to levy). Even then, the debt does not disappear -- creditors can renew judgments indefinitely in many states.
-
-Find the Right Path for You
-
-Check your bankruptcy eligibility in 30 seconds, or compare Chapter 7 vs Chapter 13 in detail.
-
-Free Eligibility Screener
-Ch. 7 vs 13 Table
-
-Related Guides
-
-Debt Relief Comparison Chart -- quick overview
-
-Cost Comparison -- what each option really costs
-
-Chapter 7 vs 13 Master Table
-
-How Much Does Bankruptcy Cost?
-
-Debt Settlement vs Bankruptcy -- detailed guide
-
-Debt Consolidation vs Bankruptcy -- detailed guide
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.orgdebtsettlementvsbankruptcy.comchapter7vs13.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
+No ads. No affiliate links. No data sold. Supported by donations.
